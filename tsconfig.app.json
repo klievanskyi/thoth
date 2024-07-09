@@ -8,11 +8,6 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "baseUrl": "/thoth/",
-    "paths": {
-      "@/*": [
-        "./src/*"
-      ]
-    },
 
     /* Bundler mode */
     "moduleResolution": "bundler",
